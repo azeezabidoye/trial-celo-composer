@@ -69,7 +69,7 @@ You may always use the processes outlined above to create a new dApp that is dep
 
 ### TIP:
 
-A new dApp may be set up in just six steps using the chosen frameworks. This makes the project less bulky. No further frameworks will be set up. Both frameworks can be found in the ``/package` directory.
+A new dApp may be set up in just six steps using the chosen frameworks. This makes the project less bulky. No further frameworks will be set up. Both frameworks can be found in the `/package` directory.
 
 ## Step 3: Develop new project
 
