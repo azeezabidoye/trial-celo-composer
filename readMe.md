@@ -85,15 +85,17 @@ If you already have Metamask installed on your browser, you can skip this sectio
 
 ### Visit Metamask URL
 
+Visit this URL
 [Metamask](https://metamask.io)
 
 ## Step 5: Fund your testnet wallet
 
-[Celo faucet](https://celo.org/developers/wallet)
+Visit this URL
+[Celo faucet](https://celo.org/developers/faucet)
 
 ### Receive additional fund
 
-- Paste your Celo Alfajores testnet wallet address
+- Paste your Celo Alfajores wallet address
 
 - Select I'm not a robot
 
