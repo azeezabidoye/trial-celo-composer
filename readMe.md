@@ -85,12 +85,12 @@ If you already have Metamask installed on your browser, you can skip this sectio
 
 ### Visit Metamask URL
 
-Visit this URL
+Visit metamask.io
 [Metamask](https://metamask.io)
 
 ## Step 5: Fund your testnet wallet
 
-Visit this URL
+Get funds from Celo faucet
 [Celo faucet](https://celo.org/developers/faucet)
 
 ### Receive additional fund
