@@ -131,6 +131,10 @@ Your account will get credited with 1 CELO native token.
 
 - Paste your private key as a value of PRIVATE_KEY
 
+```bash
+    PRIVATE_KEY="242a32639923e6292c2d92fcd10853809e9246850b0ee6b2680f6232122b435a"
+```
+
 ### Create your Smart contract file
 
 - Navigate to `/packages/hardhat/contracts`
