@@ -51,15 +51,15 @@ If you have the celo composer npm package installed on your computer. Developing
 
 ### Select your desired frontend framework
 
-➡ React (with examples, requires hardhat deploy) is the default. In my case I will select the default.
+➡ **React** (with examples, requires hardhat deploy) is the default. In my case I will select the default.
 
 ### Choose Smart contract framework
 
-➡ Hardhat (default)
+➡ **Hardhat** (default)
 
 ### Create a Sub-graph
 
-➡ No (default)
+➡ **No** (default)
 
 ### Insert the project name
 
@@ -87,6 +87,14 @@ If you already have Metamask installed on your browser, you can skip this sectio
 
 Visit metamask.io
 [Metamask](https://metamask.io)
+
+- Select download
+
+- Select Install Metamask for Chrome
+
+- Click Add to Chrome to add Metamask extension
+
+- Agree with Metamask Private Policy
 
 ## Step 5: Fund your testnet wallet
 
