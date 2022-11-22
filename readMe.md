@@ -184,7 +184,7 @@ Get funds from
 
 - Paste the code in `/Messanger.sol`
 
-- Rafactor the code
+- Refactor the code
 
 ### Write your deploy script
 
