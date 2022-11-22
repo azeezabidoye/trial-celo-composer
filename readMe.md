@@ -198,7 +198,7 @@ Get funds from
 
 - Open your terminal and navigate to `/packages/hardhat`
 
-- Run `yarn install`
+- Run `yarn install` to install project dependencies
 
 - Run `yarn deploy` to compile and deploy contracts
 
@@ -227,7 +227,7 @@ The ABI is the interface that allows you to access your Smart contract functions
 
 ### Start the front-end
 
-- Open your terminal and navigate to `/packages/react-app
+- Open your terminal and navigate to `/packages/react-app`
 
 - Run `yarn install` to install the front-end dependencies
 
