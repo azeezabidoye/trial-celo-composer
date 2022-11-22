@@ -234,3 +234,30 @@ The ABI is the interface that allows you to access your Smart contract functions
 - Run `yarn dev` to start your development environment
 
 - Visit [http://localhost:3000](http://localhost:3000) to view your project
+
+### Test Smart contract
+
+- Select the new contract in the navigation
+
+- Open **writeMessage** function
+
+- Input value and **transact**
+
+- Authorize Metamask
+
+- Verify contract using Celo block explorer
+
+## Congratulations! 🎉
+
+This concludes the discussion of Creating a new customized dApp on Celo blockchain using Celo composer. You can go over each of the topics we discussed below to make sure you're ready to put your new skills to use.
+
+### Here is a list of what we have covered ⌛
+
+- ✅ Install Celo composer CLI
+- ✅ Setup a new dApp
+- ✅ Develop new project
+- ✅ Setup and configure Metamask (optional)
+- ✅ Fund your testnet wallet
+- ✅ Develop the Smart contract
+- ✅ Deploy Smart contract
+- ✅ Interact with your dApp
