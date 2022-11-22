@@ -15,7 +15,7 @@ We'll learn how to use the Celo composer to develop and launch new dApps.
 - Install Celo composer CLI
 - Setup a new dApp
 - Develop new project
-- Setup and configure Metamask
+- Setup and configure Metamask (optional)
 - Fund your testnet wallet
 - Develop the Smart contract
 - Deploy Smart contract
@@ -194,7 +194,7 @@ Get funds from
 
 - Include new contract in `module.exports` array
 
-### Deploy your Smart contract
+## Step 7: Deploy your Smart contract
 
 - Open your terminal and navigate to `/packages/hardhat`
 
@@ -222,3 +222,15 @@ To verify your smart contract, go to [Celo Block Explorer](https://explorer.celo
 
 Finally, you may view the ABI for your Smart contract in `/deployments/alfajores/Messanger.json`
 The ABI is the interface that allows you to access your Smart contract functions from the front-end of your dApp
+
+## Step 8: Interact with your dApp
+
+### Start the front-end
+
+- Open your terminal and navigate to `/packages/react-app
+
+- Run `yarn install` to install the front-end dependencies
+
+- Run `yarn dev` to start your development environment
+
+- Visit [http://localhost:3000](http://localhost:3000) to view your project
