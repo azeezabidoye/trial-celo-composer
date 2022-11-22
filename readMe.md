@@ -107,6 +107,32 @@ Visit
 
 🔥 Boom! Your Metamask extension is successfully setup.
 
+### Connect to a testnet
+
+- Click the network dropdown at the top right corner of Metamask
+
+- Select _show/hide network_
+
+- Turn **ON** Show Test Network option
+
+- Close Metamask settings page
+
+### Connect Celo Testnet to Metamask
+
+- Visit [chainlist.org](https://chainlist.org/)
+
+- Switch **Testnets** on
+
+- Search for _alfajores_ in the search bar
+
+- Select Add to Metamask
+
+- Click on Approve to enable Metamask connection
+
+- Select Switch network
+
+🎉Celo Alfajores test network has successfully been added to your Metamask testnets.
+
 ## Step 5: Fund your testnet wallet
 
 Get funds from Celo faucet
