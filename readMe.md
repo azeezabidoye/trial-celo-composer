@@ -85,8 +85,8 @@ If you already have Metamask installed on your browser, you can skip this sectio
 
 ### Visit Metamask URL
 
-Visit metamask.io
-[Metamask](https://metamask.io)
+Visit
+[metamask.io](https://metamask.io)
 
 - Select download
 
@@ -95,6 +95,17 @@ Visit metamask.io
 - Click Add to Chrome to add Metamask extension
 
 - Agree with Metamask Private Policy
+
+- Select Create a wallet to create a new Metamask wallet
+
+- Agree with the term of use
+
+- Secret Recovery Phrase
+  ⚠ This is the main key to recover your Metamask account. Keep it confidential.
+
+- Confirm your Recovery Phrase. Insert the phrase in order and click Confirm
+
+🔥 Boom! Your Metamask extension is successfully setup.
 
 ## Step 5: Fund your testnet wallet
 
