@@ -81,7 +81,7 @@ Launch your code editor
 
 ## Step 4: Setup and configure Metamask
 
-If you already have Metamask installed on your browser, you can skip this section.
+If you already have Metamask installed on your browser, feel free to skip this section.
 
 ### Visit Metamask URL
 
