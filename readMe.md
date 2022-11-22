@@ -4,7 +4,7 @@
 
 _Step-by-step tutorials for creating a new custom dApp with Celo Composer._
 
-## Hello Dev!
+## Hello Devs!
 
 We'll break down a blockchain topic into bite-sized pieces in today's post to make it easier for you to study and put your new knowledge to use.
 
@@ -193,3 +193,30 @@ Get funds from
 - Add deployer script like the Greeter contract
 
 - Include new contract in `module.exports` array
+
+### Deploy your Smart contract
+
+- Open your terminal and navigate to `/packages/hardhat`
+
+- Run `yarn install`
+
+- Run `yarn deploy` to compile and deploy contracts
+
+### Check your balance
+
+Open Metamask and check your wallet to see your balance, you will notice that you now have less CELO token. This is due to the gas cost of deploying your Smart contracts to the blockchain.
+
+### View Smart contract
+
+- Visit [www.explorer.celo.org](https://explorer.celo.org)
+
+- Select Celo Alfajores testnet from the network dropdown in the navigation
+
+- Paste your wallet address in the search bar
+
+- Select the loaded account to view your transactions
+
+### View the Smart contract ABI
+
+Finally, you may view the ABI for your Smart contract in `/deployments/alfajores/Messanger.json`
+The ABI is the interface that allows you to access your Smart contract functions from the front-end of your dApp
