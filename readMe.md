@@ -206,7 +206,9 @@ Get funds from
 
 Open Metamask and check your wallet to see your balance, you will notice that you now have less CELO token. This is due to the gas cost of deploying your Smart contracts to the blockchain.
 
-### View Smart contract
+### Verify Smart contract
+
+To verify your smart contract, go to [Celo Block Explorer](https://explorer.celo.org). Anyone can view your contract and engage with its functions using the Celo Block Explorer.
 
 - Visit [www.explorer.celo.org](https://explorer.celo.org)
 
