@@ -37,7 +37,7 @@ You can view the list of NPM Packages that are globally installed.
 
 Run `npm list -g`
 
-If you have the celo composer npm package installed on your computer. Developing new dApps with your preferred frontend framework becomes a snap.
+If you have the Celo composer npm package installed on your computer. Developing new dApps with your preferred frontend framework becomes a snap.
 
 ## Step 2: Setup a new dApp
 
