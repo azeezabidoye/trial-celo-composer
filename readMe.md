@@ -245,7 +245,7 @@ The ABI is the interface that allows you to access your Smart contract functions
 
 - Authorize Metamask
 
-- Verify contract using Celo block explorer
+- Verify contract using [Celo block explorer](https://explorer.celo.org)
 
 ## Congratulations! 🎉
 
@@ -261,3 +261,7 @@ This concludes the discussion of Creating a new customized dApp on Celo blockcha
 - ✅ Develop the Smart contract
 - ✅ Deploy Smart contract
 - ✅ Interact with your dApp
+
+### Contribute to the project​
+
+Celo welcomes contributions to the repository! If you decide to try this out and find something confusing, consider opening a pull request to make things more clear for the next developer. If you improve the user interface or create new components that you think might be useful for other developers, consider opening a PR.
