@@ -135,10 +135,12 @@ Visit
 
 ## Step 5: Fund your testnet wallet
 
-Get funds from Celo faucet
+Get funds from
 [Celo faucet](https://celo.org/developers/faucet)
 
 ### Receive additional fund
+
+- Copy your account address to [Celo faucet](https://celo.org/developers/faucet)
 
 - Paste your Celo Alfajores wallet address
 
@@ -146,7 +148,7 @@ Get funds from Celo faucet
 
 - Get started
 
-Your account will get credited with 1 CELO native token.
+✅ Your account will get credited with 1 CELO native token.
 
 ## Step 6: Develop the Smart contract
 
